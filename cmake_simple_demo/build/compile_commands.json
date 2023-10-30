@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/cmake_demo1/Cmake-Demo/cmake_simple_demo/build",
+  "command": "D:\\Mingw\\bin\\g++.exe  @CMakeFiles/app.dir/includes_CXX.rsp -g -o CMakeFiles\\app.dir\\Src\\test.cpp.obj -c D:\\cmake_demo1\\Cmake-Demo\\cmake_simple_demo\\Src\\test.cpp",
+  "file": "D:/cmake_demo1/Cmake-Demo/cmake_simple_demo/Src/test.cpp",
+  "output": "CMakeFiles/app.dir/Src/test.cpp.obj"
+},
+{
+  "directory": "D:/cmake_demo1/Cmake-Demo/cmake_simple_demo/build",
+  "command": "D:\\Mingw\\bin\\g++.exe  @CMakeFiles/app.dir/includes_CXX.rsp -g -o CMakeFiles\\app.dir\\main.cpp.obj -c D:\\cmake_demo1\\Cmake-Demo\\cmake_simple_demo\\main.cpp",
+  "file": "D:/cmake_demo1/Cmake-Demo/cmake_simple_demo/main.cpp",
+  "output": "CMakeFiles/app.dir/main.cpp.obj"
+}
+]
