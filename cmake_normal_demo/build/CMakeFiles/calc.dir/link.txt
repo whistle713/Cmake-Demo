@@ -1,0 +1,2 @@
+D:\Mingw\bin\ar.exe qc libcalc.a CMakeFiles/calc.dir/Src/test.obj
+D:\Mingw\bin\ranlib.exe libcalc.a

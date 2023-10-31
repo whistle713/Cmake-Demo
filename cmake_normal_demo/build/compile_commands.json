@@ -1,0 +1,26 @@
+[
+{
+  "directory": "D:/test/build/src1",
+  "command": "D:\\Mingw\\bin\\g++.exe -Dsrc1_EXPORTS @CMakeFiles/src1.dir/includes_CXX.rsp -g -o CMakeFiles\\src1.dir\\fun1.cpp.obj -c D:\\test\\src1\\fun1.cpp",
+  "file": "D:/test/src1/fun1.cpp",
+  "output": "src1/CMakeFiles/src1.dir/fun1.cpp.obj"
+},
+{
+  "directory": "D:/test/build/src2",
+  "command": "D:\\Mingw\\bin\\g++.exe -Dsrc2_EXPORTS @CMakeFiles/src2.dir/includes_CXX.rsp -g -o CMakeFiles\\src2.dir\\fun2.cpp.obj -c D:\\test\\src2\\fun2.cpp",
+  "file": "D:/test/src2/fun2.cpp",
+  "output": "src2/CMakeFiles/src2.dir/fun2.cpp.obj"
+},
+{
+  "directory": "D:/test/build/test1",
+  "command": "D:\\Mingw\\bin\\g++.exe  @CMakeFiles/test1.dir/includes_CXX.rsp -g -o CMakeFiles\\test1.dir\\test1.cpp.obj -c D:\\test\\test1\\test1.cpp",
+  "file": "D:/test/test1/test1.cpp",
+  "output": "test1/CMakeFiles/test1.dir/test1.cpp.obj"
+},
+{
+  "directory": "D:/test/build/test2",
+  "command": "D:\\Mingw\\bin\\g++.exe  @CMakeFiles/test2.dir/includes_CXX.rsp -g -o CMakeFiles\\test2.dir\\test2.cpp.obj -c D:\\test\\test2\\test2.cpp",
+  "file": "D:/test/test2/test2.cpp",
+  "output": "test2/CMakeFiles/test2.dir/test2.cpp.obj"
+}
+]

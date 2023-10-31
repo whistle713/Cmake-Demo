@@ -1,0 +1,195 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "src1",
+					"jsonFile" : "directory-src1-Debug-11e016161396485cb957.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "src1",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "src2",
+					"jsonFile" : "directory-src2-Debug-1620ef1fd6fa76471083.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "src2",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "test1",
+					"jsonFile" : "directory-test1-Debug-11b89b26843d6de8d4e6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "test1",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "test2",
+					"jsonFile" : "directory-test2-Debug-31fcd7d85e6ab3290baa.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 4,
+					"source" : "test2",
+					"targetIndexes" : 
+					[
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Test"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "lib1",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "lib2",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "Test02",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "Test02",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "src1::@21184e4ee48672a83032",
+					"jsonFile" : "target-src1-Debug-fd1a75998fc9094019a9.json",
+					"name" : "src1",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "src2::@8717fb318be7a065d9bf",
+					"jsonFile" : "target-src2-Debug-67adb1a9f37dfdcf2d18.json",
+					"name" : "src2",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "test1::@48000d754ed116dfc571",
+					"jsonFile" : "target-test1-Debug-e2144996a147fe0b92fb.json",
+					"name" : "test1",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "test2::@f61895df023b4f74cb48",
+					"jsonFile" : "target-test2-Debug-b431193bba12900f2cd5.json",
+					"name" : "test2",
+					"projectIndex" : 4
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/test/build",
+		"source" : "D:/test"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
